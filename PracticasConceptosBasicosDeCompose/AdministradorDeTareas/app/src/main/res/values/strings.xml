@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Administrador De Tareas</string>
+    <string name="complete_task_message">All tasks completed</string>
+    <string name="nice_work_message">Nice work!</string>
+</resources>
